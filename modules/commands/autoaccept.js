@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "autoaccept",
 	version: "1.0.0",
 	hasPermission: 2,
-	credits: "Cliff",
+	credits: "ericson",
 	description: "Automatically accept friend requests",
 	commandCategory: "system",
 	usages: "[on/off]",
