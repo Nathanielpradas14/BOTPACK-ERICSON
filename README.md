@@ -1,8 +1,8 @@
-<p align="center"><a href="https://www.facebook.com/swordigo.swordslush" target="_blank" rel="noopener noreferrer">
-	<img src="https://i.imgur.com/NwFzj2w.jpeg" width="50" style="margin-right: 10px;"></a>
+<p align="center"><a href="https://www.facebook.com/ericsonpascua6" target="_blank" rel="noopener noreferrer">
+	<img src="https://i.imgur.com/FPYsGTa.jpeg" width="50" style="margin-right: 10px;"></a>
 </p>
 <h5 align="center">
-🔹𝗖𝗹𝗶𝗳𝗳𝗩𝗶𝗻𝗰𝗲𝗻𝘁 𝗩.𝗧𝗼𝗿𝗿𝗲𝘃𝗶𝗹𝗹𝗮𝘀
+🔹Ericson Pascua
 </h5>
 
 ## Introduction
@@ -25,7 +25,7 @@
 
 ## MODIFIED 
 
-> 🔹by Yazkydev also known as  Cliff or Swordigo dev<br>
+> 🔹by kira also known as  ericson or arise<br>
 > 🔹Appstate is encrypted when the REPL starts running.<br>
 > 🔹You have the option to either create your own custom commands or copy a file from a Mirai bot and paste it into this repl.<br>
 > 🔹Repl is neatly organized!<br>
@@ -35,10 +35,10 @@
 
 <div align="center">
 			<h3>My Replit Account ->
-			<a href="https://replit.com/@CliffvincentTor" style="color: green;">@CliffVincent🔥</a>
+			<a href="https://replit.com/@EricsonPascuaTor" style="color: green;">@EricsonPascua🔥</a>
 				<br>
 	My Facebook Account ->
-	<a href="https://www.facebook.com/swordigo.swordslush?mibextid=rS40aB7S9Ucbxw6v" style="color: green;">Yazky🚀</a></h3></div>
+	<a href="https://www.facebook.com/ericsonpascua6?mibextid=rS40aB7S9Ucbxw6v" style="color: green;">Ericson🚀</a></h3></div>
 
 <img align="center" src="https://i.ibb.co/XVnmz7j/1000002116.png"/>
 
