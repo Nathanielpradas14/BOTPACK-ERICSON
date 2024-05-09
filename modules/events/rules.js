@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "rulesNoti",
 	eventType: ["log:subscribe"],
 	version: "1.0.0",
-	credits: "CliffS",
+	credits: "ericson",
 	description: "Notify group of rules when new members are added",
 	dependencies: {
 		"fs-extra": "",
