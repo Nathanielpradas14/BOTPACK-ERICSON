@@ -7,7 +7,7 @@ module.exports.config = {
 	version: "1.1.0",
 	hasPermision: 2,
 	description: "Sends a message to all groups and can only be done by the admin.",
-	usePrefix: false,
+	usePrefix: true,
 	commandCategory: "noti",
 	usages: "[Text]",
 	cooldown: 0,
@@ -23,7 +23,7 @@ module.exports.run = async function ({ api, event, args }) {
 			await api.sendMessage(
 				`𝙉𝙊𝙏𝙄𝘾𝙀 𝙁𝙍𝙊𝙈 𝘿𝙀𝙑𝙀𝙇𝙊𝙋𝙀𝙍 
  ---------------- 
-『𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘕𝘢𝘮𝘦』:𝗖𝗹𝗶𝗳𝗳𝘃𝗶𝗻𝗰𝗲𝗻𝘁
+『𝘋𝘦𝘷𝘦𝘭𝘰𝘱𝘦𝘳 𝘕𝘢𝘮𝘦』:ericson終.
  --------------- 
  『𝗡𝗼𝘁𝗶𝗰𝗲』${custom}`,
 				thread.threadID
