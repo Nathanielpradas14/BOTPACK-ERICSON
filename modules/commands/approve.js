@@ -2,10 +2,10 @@ module.exports.config = {
  name: "approve",
  version: "1.0.2",
  hasPermssion: 2,
- credits: "Cliff",//dont change the credits 
+ credits: "ericson",//dont change the credits 
  description: "approve list/del/pending",
  commandCategory: "Box",
- usePrefix: false,
+ usePrefix: true,
  usages: "approve list/del/pending",
  cooldowns: 5
 };
